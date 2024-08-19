@@ -45,34 +45,34 @@ Managed IT infrastructure for over 50 clients, leading technical teams and overs
 
 ## Skills
 
-- **Networking:** Expertise in designing and managing network infrastructures, including advanced routing protocols, switching, and security practices. Proficient in cloud and virtual networking, troubleshooting, and implementing high availability solutions.
-  
-- **Server & Workstation Virtualization:** Skilled in VMware, Hyper-V, and Xen technologies for efficient virtualization.
+- **Networking:** Design and manage network infrastructures, including advanced routing protocols, switching, and security practices. Implement and optimize cloud and virtual networking solutions, troubleshoot issues, and ensure high availability with redundant devices and power systems.
 
-- **Cloud Infrastructure Management:** Experienced with AWS, Microsoft Azure, and Google Cloud Platform.
+- **Server & Workstation Virtualization:** Utilize VMware, Hyper-V, and Xen technologies for efficient virtualization.
 
-- **High Availability & Clustering:** Implemented clustering solutions and redundant systems to ensure high availability.
+- **Cloud Infrastructure Management:** Manage cloud environments with AWS, Microsoft Azure, and Google Cloud Platform, ensuring performance and security.
 
-- **Business Continuity & Disaster Recovery:** Developed robust backup and disaster recovery strategies to minimize operational disruptions.
+- **High Availability & Clustering:** Implement clustering solutions and redundant systems to maintain high availability.
 
-- **Storage Solutions:** Managed and optimized SAN and NAS, configuring for high availability and performance, including data redundancy and replication.
+- **Business Continuity & Disaster Recovery:** Develop and execute backup and disaster recovery strategies to ensure uninterrupted business operations.
 
-- **Operating System Administration:** Proficient in Windows Server, Linux, Unix, and macOS.
+- **Storage Solutions:** Manage and optimize SAN and NAS systems, configure for high availability, performance, and scalability. Implement data redundancy, RAID configurations, snapshots, and replication. Design storage architectures that support business growth and integrate with network infrastructure for seamless data access. Manage network-based storage protocols like iSCSI and Fibre Channel, including segmented storage networks to enhance performance and security, while ensuring data integrity and compliance.
 
-- **Productivity Suite Management:** Administered Microsoft 365 and Google Workspace environments.
+- **Operating System Administration:** Administer Microsoft Windows Server, Linux, Unix, and macOS environments.
 
-- **Email Management:** Managed Microsoft Exchange Server and Microsoft 365 email systems, focusing on security and performance.
+- **Productivity Suite Management:** Provision, migrate, and administer Microsoft 365 and Google Workspace environments.
 
-- **Database Management:** Deployed and administered MSSQL and MySQL databases, ensuring data integrity and security.
+- **Email Management:** Provision, migrate, and administer email systems, including Microsoft Exchange Server and Microsoft 365. Manage email security, ensure reliable communication, and optimize email performance.
 
-- **Compliance Auditing:** Knowledgeable in HIPAA and PCI compliance, maintaining documentation and changelogs.
+- **Database Management:** Deploy and administer database systems, including Microsoft SQL Server (MSSQL) and MySQL. Design database schemas, perform backups, optimize performance, and ensure data integrity and security.
 
-- **Web Server Administration:** Deployed and managed IIS and Apache web servers, including DNS, domain registration, SSL, load balancing, and WAF. Streamlined web technologies for improved performance.
+- **Compliance Auditing:** Understand and apply HIPAA and PCI compliance requirements. Build and maintain compliance in new and existing environments while meeting business requirements. Work with compliance vendors and auditors to ensure adherence to industry standards and regulatory requirements. Document compliance processes, maintain an up-to-date changelog, and keep documentation current.
 
-- **Online Marketing:** Utilized web analytics, SEO, online advertising, and email marketing to enhance online presence and effectiveness.
+- **Web Server Administration:** Deploy, configure, and manage web servers, including IIS and Apache, across Windows and Linux environments. Handle web technologies such as DNS management, domain registration, and SSL certificate management. Implement load balancing and configure Web Application Firewalls (WAF) to secure applications. Automate web server tasks and streamline existing technologies for improved performance and efficiency.
 
-- **Problem Resolution & Support:** Diagnosed and resolved complex technical issues efficiently. Documented resolutions and communicated effectively to technical and non-technical stakeholders.
+- **Online Marketing:** Utilize web analytics tools and implement SEO strategies to enhance online presence. Manage online advertising campaigns and email marketing practices. Integrate marketing tools to consolidate and streamline marketing efforts for improved effectiveness and reach.
 
-- **Technical Documentation & Communication:** Created detailed technical documentation, project documentation, and facilitated user acceptance testing (UAT). Communicated technical information clearly and empathetically.
+- **Problem Resolution & Support:** Diagnose and resolve complex technical issues across diverse IT environments. Deliver exceptional value by identifying root causes, implementing effective solutions, and minimizing downtime. Troubleshoot server, network, and application problems, leveraging deep knowledge of system configurations and performance metrics. Understand and define technical issues in collaboration with non-technical staff, using empathy and compassion to address concerns effectively. Communicate technical issues clearly to both technical and non-technical stakeholders. Document and maintain changelogs of applied resolutions to ensure transparency and facilitate future troubleshooting.
 
-- **Customer Service:** Delivered high-quality support, understanding client needs, resolving issues promptly, and maintaining professional interactions.
+- **Technical Documentation & Communication:** Create clear and comprehensive technical documentation that supports effective problem resolution, project management, and system maintenance. Document technical issues, applied resolutions, and maintain changelogs to ensure transparency and continuity. Prepare detailed project documentation, including requirements, plans, and progress reports. Facilitate user acceptance testing (UAT) to validate that solutions meet customer needs and expectations. Communicate complex technical information in an understandable manner to both technical and non-technical audiences, enhancing collaboration and supporting organizational goals.
+
+- **Customer Service:** Provide high-quality support with a focus on understanding and addressing client needs. Resolve complex issues promptly while minimizing disruption and ensuring satisfaction. Explain technical details clearly to non-technical users and manage customer interactions with professionalism and patience. Apply solution-based methodologies to handle challenging situations, ensuring concerns are addressed and resolved effectively. Follow up through detailed documentation and changelogs, communicating complex information with simplicity to ensure clarity and effective communication. Enhance the customer experience by actively listening, offering timely solutions, and maintaining clear and transparent communication throughout the process.
