@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # SUMMARY / OBJECTIVE
 
-With over 10 years of professional experience, I am a Systems Engineer adept at designing, implementing, and managing server, networking, and data-center technologies. I excel in planning, installing, configuring, and optimizing infrastructures for high availability and performance.
+With over a decade of experience, I am a Systems Engineer specializing in the design, implementation, and security of server, networking, and data-center technologies. I excel in planning, configuring, and optimizing infrastructures for high availability, strong security, and peak performance.
 
 <!--**Complex technologies engineered with elegance through simplicity.**-->
 
@@ -26,35 +26,61 @@ With over 10 years of professional experience, I am a Systems Engineer adept at 
 
 ### 2023 - 2024
 
-Tasks included managing physical, virtual, and cloud servers on-site and off-site, covering private cloud infrastructure, public cloud resources, and various clients and locations. This involved configuring firewalls, managing security services, administering cloud PBX telephony systems, and maintaining server operating systems, including Windows and Linux. Additionally, I handled backup solutions, identity management systems, network infrastructure design (WAN and LAN), database deployments, VPN connectivity, DNS and registrar management, SaaS implementations, and project management responsibilities.
+At Tigunia, I managed a diverse range of IT infrastructures, from on-site servers to cloud environments, ensuring security, performance, and reliability across multiple clients and locations. My role involved configuring systems, optimizing network designs, mentoring junior staff, and providing comprehensive support for various technologies.
 
-## Solutions Architect // RESPONZA
+* **Server Management:** Managed physical, virtual, and cloud servers across diverse environments, including private, public, and hybrid clouds, ensuring optimal performance and security.
+
+* **Firewall & Security Configuration:** Configured and managed firewalls and security services to protect client data and maintain compliance with industry standards.
+
+* **Cloud Telephony:** Administered cloud PBX telephony systems, ensuring reliable communication solutions for clients.
+
+* **Operating Systems:** Maintained and supported server operating systems, including Windows and Linux, across various environments to ensure stability and security.
+
+* **Backup Management:** Provided support for backup solutions, ensuring data integrity and secure access across client networks. Supporting fully hosted and client managed implimentations.
+
+* **Identity Management:** Administered identity management systems, ensuring secure access controls, efficient user provisioning, and backup.
+
+* **Network Infrastructure:** Designed and managed network infrastructure, including WAN and LAN configurations, to support efficient and secure connectivity.
+
+* **VPN Management:** Deployed and maintained site-to-site and client VPN connectivity solutions to ensure secure network connectivity and remote access.
+
+* **SaaS Implementations:** Oversaw the platform implementation of SaaS solutions, integrating them into existing infrastructures to enhance client productivity and operational efficiency.
+
+* **Project Management:** Handled project management responsibilities, including planning, execution, and monitoring, to ensure projects were completed on time and met client expectations.
+
+* **Mentorship & Team Support:** Mentored junior staff, including helpdesk and Network Operations Center (NOC) teams, fostering their development and enhancing overall team performance.
+
+* **Client Support:** Provided ongoing support and troubleshooting for a wide range of IT issues, ensuring high levels of client satisfaction and system uptime.
+
+## Sr. Systems Engineer & Solutions Architect // RESPONZA
 
 ### 2012 - 2022
 
-Employed as a full-time system engineer tasked with overseeing the infrastructure of over 50 clients internationally. Responsibilities include deploying, migrating, and maintaining hybrid cloud platforms, managing internet connectivity, implementing advanced firewall solutions, configuring network routing and switching, and overseeing both physical and virtual servers as well as workstations across diverse operating systems. Priorities include ensuring business continuity, maximizing uptime, optimizing performance, enhancing end-user satisfaction, and delivering exceptional customer support.
+As a Sr. Systems Engineer & Solutions Architect at Responza, I was responsible for managing the IT infrastructure of over 50 international clients. My role involved leading a technical team, designing and implementing secure network solutions, and overseeing complex projects to ensure seamless operations and client satisfaction.
 
-* Led a technical team comprising systems engineers, system administrators, and help desk personnel.
+* **Infrastructure Management:** Oversaw and maintained the IT infrastructure for over 50 clients, ensuring the reliability and security of hybrid cloud platforms, including private, public, and on-premises environments.
 
-* Collaborated with internal sales and marketing teams and senior customer staff to understand business requirements and develop solutions that surpassed expectations.
+* **Deployment & Migration:** Executed all aspects of the deployment, migration, and maintenance of servers, storage solutions, and network systems, ensuring seamless transitions and minimal downtime.
 
-* Managed internal and customer projects from inception to completion, including budgeting, scheduling, and resource allocation.
+* **Network & Security Solutions:** Designed and implemented advanced network architectures, including routing, switching, and firewall solutions, to optimize performance and enhance security across client environments.
 
-* Handled ticket and project escalations from various levels of the technical team.
+* **Server Management:** Managed both physical and virtual server infrastructures across diverse operating systems, including Windows, Linux, and macOS, ensuring systems operated efficiently and securely.
 
-* Standardized technology stacks to ensure consistency across customer environments, facilitating seamless engagement for technical staff.
+* **Client Collaboration:** Engaged with stakeholders at all levels, from C-suite executives to end-users, to understand their business needs and develop tailored IT solutions. Provided technical consultations and support to ensure that solutions met both strategic objectives and operational requirements.
 
-* Implemented highly available, redundant, and remotely managed environments.
+* **Team Leadership:** Led a team of systems engineers, system administrators, and help desk personnel, guiding them through complex technical challenges and ensuring a high standard of service delivery.
 
-* Provided round-the-clock international support to both employees and clients.
+* **Project Management:** Directed multiple concurrent projects from inception to completion, including active participation as a team member. Oversaw budgeting, scheduling, and resource allocation, ensuring projects were completed on time and within budget.
 
-* Cultivated and maintained vendor relationships for both internal and customer needs.
+* **Standardization:** Established standardized technology stacks across client environments to ensure consistency and reduce complexity. Developed and delivered training programs for team members, enhancing their ability to implement solutions efficiently and troubleshoot issues quickly.
 
-* Leveraged automation tools such as MDM, RMM, and scripting to streamline processes.
+* **Automation & Efficiency:** Utilized automation tools such as Mobile Device Management (MDM), Remote Monitoring and Management (RMM), and scripting to optimize operations, reduce manual intervention, and minimize human error. Improved overall efficiency and accuracy in operations and response times.
 
-* Contributed insights and expertise as a member of the Business Leadership Team. 
+* **24/7 Support:** Provided round-the-clock support to regional, national, and international clients, ensuring quick resolution of issues and maintaining high levels of client satisfaction.
 
-* Infrastructure design, optimization, and security.
+* **Vendor Management:** Cultivated and maintained relationships with vendors, managing procurement and negotiations. Clients interfaced directly with me or my team rather than dealing with vendors themselves, increasing efficiency, ensuring timely deliverables, and reducing the time and effort required from client employees.
+
+* **Strategic Contributions:** Played an active role in the Business Leadership Team, contributing insights on infrastructure design, optimization, security strategies, and aligning IT initiatives with business goals.
 
 * * *
 
