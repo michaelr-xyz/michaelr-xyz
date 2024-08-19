@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Engineering Complex Technologies through Elegant Simplicity
 ---
 
 # Summary / Objective
