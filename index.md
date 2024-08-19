@@ -3,7 +3,9 @@ layout: default
 ---
 
 # Summary / Objective
-With over a decade of experience, I am a Systems Engineer specializing in the design, implementation, and security of server, networking, and data-center technologies. I excel in planning, configuring, and optimizing infrastructures for high availability, strong security, and peak performance.
+Experienced Systems Engineer with over a decade of expertise in designing, implementing, and securing server, networking, and data-center technologies. Proven ability to optimize infrastructures for high availability, robust security, and peak performance. Adept at managing complex IT environments, leading technical projects, and delivering exceptional solutions.
+
+* * *
 
 # Professional Experience
 
@@ -42,6 +44,8 @@ As a Sr. Systems Engineer & Solutions Architect at Responza, I was responsible f
 - **24/7 Support:** Provided round-the-clock support to regional, national, and international clients, ensuring quick resolution of issues and maintaining high levels of client satisfaction.
 - **Vendor Management:** Cultivated and maintained relationships with vendors, managing technical support interactions and owning support requests through resolution. Acted as the single point of contact for clients, streamlining communication and ensuring efficient handling of technical issues. This approach increased overall efficiency, ensured timely deliverables, and minimized the time and effort required from client employees by managing the entire communication lifecycle with both vendors and customers.
 - **Strategic Contributions:** Played an active role in the Business Leadership Team, contributing insights on infrastructure design, optimization, security posture, and aligning IT initiatives with business goals.
+
+* * *
 
 # Skills
 
