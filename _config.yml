@@ -6,3 +6,6 @@ show_downloads: false
 url: michaelr.xyz
 author: Michael Ryan
 theme: jekyll-theme-architect
+
+plugins:
+  - jekyll-sitemap
