@@ -3,9 +3,12 @@ title: Michael Ryan - GitHub
 description: Engineering Complex Technologies through Elegant Simplicity
 show_downloads: false
 #google_analytics: G-SJHZ177HBE
-url: michaelr.xyz
 author: Michael Ryan
 theme: jekyll-theme-architect
 
 plugins:
   - jekyll-sitemap
+
+# Site information
+url:  https://michaelr.xyz
+baseurl: ''
