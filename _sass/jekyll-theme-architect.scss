@@ -59,8 +59,8 @@ header h2 {
   margin: 0 auto;
 }
 
-#content-wrapper {
-  padding-top: 30px;
+content-wrapper {
+  padding-top: 10px;
   border-top: solid 1px #fff;
 }
 
@@ -423,15 +423,15 @@ footer a:hover {
   }
   #main-content,
   aside#sidebar {
-    float: none;
     width: 100% ! important;
   }
   aside#sidebar {
     min-height: 0;
-    padding: 20px 0;
-    margin-top: 20px;
+    padding-bottom: 20px 0;
+    padding-left: 0px;
+    margin-bottom: 20px;
     background-image: none;
-    border-top: solid 1px #ddd;
+    border-bottom: solid 1px #ddd;
   }
   aside#sidebar a.button {
     display: none;
