@@ -1,9 +1,9 @@
-title: Michael Ryan - GitHub
-#title: Michael Ryan
+#title: Michael Ryan - GitHub
+title: Michael Ryan
 description: Engineering Complex Technologies through Elegant Simplicity
 show_downloads: false
-#google_analytics: G-SJHZ177HBE
-#google_tag_manager: GTM-PRQJGKRG
+google_analytics: G-SJHZ177HBE
+google_tag_manager: GTM-PRQJGKRG
 author: Michael Ryan
 theme: jekyll-theme-architect
 
