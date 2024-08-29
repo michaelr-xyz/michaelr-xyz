@@ -13,3 +13,5 @@ plugins:
 # Site information
 url:  https://michaelr.xyz
 baseurl: ''
+
+language: en-US
