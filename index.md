@@ -9,6 +9,20 @@ Experienced Systems Engineer with over a decade of expertise in designing, imple
 
 # Professional Experience
 
+## General IT Infrastructure Systems Administrator // NORTH WIND GROUP
+### 2025 - Present
+
+As the primary Subject Matter Expert for WS_FTP, KiteWorks, and Box.com environments, I architect and maintain secure file transfer solutions that facilitate critical data exchanges between internal systems and external partners. My role focuses on ensuring compliance, reliability, and efficiency across the organization's file transfer infrastructure while supporting a centralized software distribution platform that delivers 675+ applications to end users.
+
+**Core Responsibilities & Technical Leadership:**
+
+- **File Transfer Infrastructure Management:** Administer and optimize WS_FTP Pro servers (Windows/Linux), including user account provisioning, SSL certificate management, and firewall rule configuration to enable secure SFTP/FTPS transfers
+- **KiteWorks Migration Project:** Partner with security teams to transition from legacy WS_FTP systems to KiteWorks' enterprise-grade secure file sharing platform, including workflow redesign and user training
+- **Box.com Administration:** Manage enterprise Box environment including folder permissions, SSO integration, and data retention policies
+- **Software Distribution Support:** Assist in packaging and deploying applications via System Center Configuration Manager (SCCM), ensuring compatibility and compliance
+- **Incident Resolution:** Troubleshoot complex file transfer failures by analyzing protocol-level issues (FTP/SFTP/HTTP/S), network configurations, and security policies
+- **Process Improvement:** Develop automation scripts (PowerShell/Python) to streamline account provisioning and file transfer monitoring
+
 ## Systems Engineer // TIGUNIA
 ### 2023 - 2024
 
@@ -80,3 +94,27 @@ As a Sr. Systems Engineer & Solutions Architect at Responza, I was responsible f
 - **Technical Documentation & Communication:** Proficient in creating clear and comprehensive technical documentation that supports problem resolution, project management, and system maintenance. Experienced in preparing project documentation, facilitating user acceptance testing (UAT), and ensuring effective communication of technical information.
 
 - **Customer Service:** Dedicated to delivering high-quality support with a focus on understanding and addressing client needs. Effective in resolving complex issues promptly, managing customer interactions professionally, and enhancing the customer experience through solution-based methodologies and clear, empathetic communication.
+
+* * *
+
+# Education
+
+## IT Network Administrator Pathway // YAKIMA VALLEY COLLEGE
+### 2025 - Present
+
+Pursuing comprehensive training in IT network administration, focusing on:
+
+- Network design and implementation
+- Security protocols and best practices
+- System administration
+- Cloud technologies
+- Infrastructure management
+
+**GPA:** 4.0
+
+**Club Participation:**
+- Engineering Club
+- CS&IT Club (Computer Science and Information Technology)
+- Wellness Club
+
+* * *
