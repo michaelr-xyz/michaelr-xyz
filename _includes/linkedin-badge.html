@@ -1,14 +1,18 @@
 <!-- LinkedIn Badge -->
-<div class="badge-base LI-profile-badge" 
-     style="padding-top: 15px; padding-bottom: 10px;" 
+<script type="text/javascript">
+  // Initialize LinkedIn badge after the script loads
+  window.addEventListener('load', function() {
+    if (window.LI) {
+      LI.init();
+    }
+  });
+</script>
+<div class="LI-profile-badge" 
      data-version="v1" 
      data-size="medium" 
      data-locale="en_US" 
-     data-type="VERTICAL" 
+     data-type="vertical" 
      data-theme="light" 
-     data-vanity="michael-ryan-xyz">
-  <a class="badge-base__link LI-simple-link" 
-     href="https://www.linkedin.com/in/michael-ryan-xyz/" 
-     target="_blank"
-     rel="noopener noreferrer">Michael Ryan</a>
+     data-vanity="michael-ryan-xyz"
+     style="display: inline-block; margin: 0; padding: 0;">
 </div>
