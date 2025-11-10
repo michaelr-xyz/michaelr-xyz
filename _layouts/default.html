@@ -24,37 +24,14 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
          <aside id="sidebar">
-          <div class="contact">
-            <h1>Contact</h1>
-            <h2>Email</h2>
-              <p><a href="https://truf.us/mail?utm_source=website&utm_medium=website&utm_id=michael">michael@michaelr.xyz</a></p>
-            <h2>Phone</h2>
-              <p><a href="https://truf.us/phone?utm_source=website&utm_medium=website&utm_id=michael">+1.206.486.6453</a></p>
-            <h2>LinkedIn</h2>
-              <a class="badge-base__link LI-simple-link" href="https://truf.us/LinkedIn?utm_source=michaelr-xyz&utm_medium=website&utm_id=michael" target="_blank">Michael Ryan</a>
-              <div class="badge-base LI-profile-badge" style="padding-top: 15px; padding-bottom: 10px;" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="michael-ryan-xyz" data-version="v1"></div>
-          </div>
+          {% include contact-section.html %}
         </aside>
         <section id="main-content">
           {{ content }}
         </section>
         <aside id="sidebar">
-          <div class="contact">
-            <h1>Projects</h1>
-              <h2>TRUF.us</h2>
-              <p><a href="https://truf.us/?utm_source=michaelr-xyz&utm_medium=website&utm_id=michael" target="_blank">TRUF URL Shortner</a></p>
-              <h2>MICHAEL.ONG</h2>
-              <p><a href="https://truf.us/mong?utm_source=michaelr-xyz&utm_medium=website&utm_id=michael" target="_blank">Non-Profit Startup</a></p>
-              <h2>ZiryTech</h2>
-              <p><a href="https://truf.us/ziry?utm_source=michaelr-xyz&utm_medium=website&utm_id=michael" target="_blank">Technology Consultants</a></p>
-              <h2>The Chisme Cafe</h2>
-              <p><a href="https://truf.us/chisme?utm_source=michaelr-xyz&utm_medium=website&utm_id=michael" target="_blank">Restaurant Concept</a></p>
-            <h1>Certifications</h1>
-              <p><a href="https://truf.us/Credly?utm_source=website&utm_medium=website&utm_id=michael" target="_blank"><img src="\assets\images\exam-409-server-virtualization-with-windows-server-hyper-v-and-system-center.png" alt="Exam 409: Server Virtualization with Windows Server Hyper-V and System Center" style="width:250px; padding-top:15px;"></a></p>
-              <p><a href="https://truf.us/5tui9?utm_source=michaelr-xyz&utm_medium=website&utm_id=michael" target="_blank"><img src="/assets/images/introduction-to-network-routing-20250610.jpg" alt="Introduction to Network Routing" style="width:250px;"></a></p>
-              <p><a href="https://truf.us/kuD8h?utm_source=michaelr-xyz&utm_medium=website&utm_id=michael" target="_blank"><img src="/assets/images/learning-virtualization-20250612.jpg" alt="Learning Virtualization" style="width:250px;"></a></p>
-              <p><img src="/assets/images/130FieryTypist.svg" alt="Fiery Typist - 130 WPM in 5 Seconds" style="width:250px;"></p>
-          </div>
+          {% include projects-section.html %}
+          {% include certifications-section.html %}
         </aside>
       </div>
     </div>
