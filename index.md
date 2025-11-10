@@ -9,7 +9,7 @@ Experienced Systems Engineer with over a decade of expertise in designing, imple
 
 # Professional Experience
 
-## General IT Infrastructure Systems Administrator // OSC Technical Solutions
+## General IT Infrastructure Systems Administrator // OSC TECHNICAL SOLUTIONS
 ### 2025 - Present
 
 As the primary Subject Matter Expert for WS_FTP, KiteWorks, and Box.com environments, I architect and maintain secure file transfer solutions that facilitate critical data exchanges between internal systems and external partners. My role focuses on ensuring compliance, reliability, and efficiency across the organization's file transfer infrastructure while supporting a centralized software distribution platform that delivers 675+ applications to end users.
