@@ -110,11 +110,11 @@ Pursuing comprehensive training in IT network administration, focusing on:
 - Cloud technologies
 - Infrastructure management
 
-**GPA:** 4.0
-
 **Club Participation:**
 - Engineering Club
 - CS&IT Club (Computer Science and Information Technology)
 - Wellness Club
+
+**Reference:** <a href="https://truf.us/YVC-Michael?utm_source=michaelr-xyz&utm_medium=website&utm_id=michael" target="_blank" rel="noopener noreferrer">Michael Ryan YVC Student Story</a>
 
 * * *
