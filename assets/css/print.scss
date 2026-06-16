@@ -461,6 +461,13 @@ script[src*="zohopublic"],
   display: none !important;
 }
 
+/* Hide projects and certifications sections in print */
+#sidebar:nth-of-type(2),
+.projects-section,
+.certifications-section {
+  display: none !important;
+}
+
 /* Header adjustments for print */
 header {
   padding-top: 10px;
