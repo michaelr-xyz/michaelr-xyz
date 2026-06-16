@@ -444,8 +444,17 @@ img::after {
 
 /* Hide salesiq and other non-essential elements */
 #salesiq,
-footer {
-  display: none;
+footer,
+#zsiqscript,
+script[src*="salesiq"],
+script[src*="zohopublic"],
+.zoho,
+.salesiq,
+[class*="zoho"],
+[class*="salesiq"],
+[class*="chat"],
+[class*="widget"] {
+  display: none !important;
 }
 
 /* Header adjustments for print */
