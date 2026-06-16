@@ -84,7 +84,7 @@ header h1 {
   font-size: 60px;
   font-weight: normal;
   line-height: 1.2;
-  color: #303030;
+  color: #004080;
   letter-spacing: -1px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif !important;
 }
@@ -159,7 +159,7 @@ h1 {
 }
 
 h2 {
-  margin-bottom: 8px;
+  margin-bottom: 0px;
   margin-top: 16px;
   font-size: 22px;
   font-weight: bold;
@@ -167,16 +167,17 @@ h2 {
 }
 
 h3 {
-  margin-bottom: 8px;
+  margin-bottom: 0px;
   font-size: 18px;
   font-weight: bold;
-  color: #004080;
+  color: #aaa;
 }
 
 h4 {
+  margin-bottom: 8px;
   font-size: 16px;
   font-weight: bold;
-  color: #303030;
+  color: #004080;
 }
 
 h5 {
@@ -274,7 +275,7 @@ footer a {
 .contact {
   margin-bottom: 10px;
   padding: 15px 0;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid grey;
   page-break-inside: avoid;
 }
 
@@ -463,8 +464,7 @@ script[src*="zohopublic"],
 /* Header adjustments for print */
 header {
   padding-top: 10px;
-  padding-bottom: 5px;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid grey;
 }
 
 header h1 {
