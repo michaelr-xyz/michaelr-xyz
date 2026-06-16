@@ -453,7 +453,9 @@ script[src*="zohopublic"],
 [class*="zoho"],
 [class*="salesiq"],
 [class*="chat"],
-[class*="widget"] {
+[class*="widget"],
+.zsiq-float-tooltip,
+[id*="zsiq"] {
   display: none !important;
 }
 
