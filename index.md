@@ -9,8 +9,9 @@ Experienced Systems Engineer with over a decade of expertise in designing, imple
 
 # Professional Experience
 
-## General IT Infrastructure Systems Administrator // OSC TECHNICAL SOLUTIONS
-### 2025 - Present
+## General IT Infrastructure Systems Administrator
+### OSC TECHNICAL SOLUTIONS
+#### May 2025 - Present
 
 As the primary Subject Matter Expert for WS_FTP, KiteWorks, and Box.com environments, I architect and maintain secure file transfer solutions that facilitate critical data exchanges between internal systems and external partners. My role focuses on ensuring compliance, reliability, and efficiency across the organization's file transfer infrastructure while supporting a centralized software distribution platform that delivers 675+ applications to end users.
 
@@ -23,8 +24,9 @@ As the primary Subject Matter Expert for WS_FTP, KiteWorks, and Box.com environm
 - **Incident Resolution:** Troubleshoot complex file transfer failures by analyzing protocol-level issues (FTP/SFTP/HTTP/S), network configurations, and security policies
 - **Process Improvement:** Develop automation scripts (PowerShell/Python) to streamline account provisioning and file transfer monitoring
 
-## Systems Engineer // TIGUNIA
-### 2023 - 2024
+## Systems Engineer
+### TIGUNIA
+#### May 2023 - April 2024
 
 At Tigunia, I managed a diverse range of IT infrastructures, from on-site servers to cloud environments, ensuring security, performance, and reliability across multiple clients and locations. My role involved configuring systems, optimizing network designs, mentoring junior staff, and providing comprehensive support for various technologies.
 
@@ -41,8 +43,9 @@ At Tigunia, I managed a diverse range of IT infrastructures, from on-site server
 - **Mentorship & Team Support:** Mentored junior staff, including helpdesk and Network Operations Center (NOC) teams, fostering their development and enhancing overall team performance.
 - **Client Support:** Provided ongoing support and troubleshooting for a wide range of IT issues, ensuring high levels of client satisfaction and system uptime.
 
-## Sr. Systems Engineer & Solutions Architect // RESPONZA
-### 2012 - 2022
+## Sr. Systems Engineer & Solutions Architect
+### RESPONZA
+#### July 2012 - August 2022
 
 As a Sr. Systems Engineer & Solutions Architect at Responza, I was responsible for managing the IT infrastructure of over 50 clients. My role involved leading a technical team, designing and implementing secure network solutions, and overseeing complex projects to ensure seamless operations and client satisfaction.
 
@@ -84,11 +87,11 @@ As a Sr. Systems Engineer & Solutions Architect at Responza, I was responsible f
 
 # Education
 
-## IT Network Administrator Pathway // YAKIMA VALLEY COLLEGE
-### 2025 - Present
+## IT Network Administrator Pathway
+### YAKIMA VALLEY COLLEGE
+#### 2025 - Present
 
-Pursuing comprehensive training in IT network administration, focusing on:
-
+**Pursuing comprehensive training in IT network administration, focusing on:**
 - Network design and implementation
 - Security protocols and best practices
 - System administration
