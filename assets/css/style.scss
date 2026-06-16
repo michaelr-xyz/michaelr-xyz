@@ -2,3 +2,8 @@
 ---
 
 @import 'jekyll-theme-architect';
+
+/* Hide print-only elements in screen view */
+.print-only {
+  display: none;
+}

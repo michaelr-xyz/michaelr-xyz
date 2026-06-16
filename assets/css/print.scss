@@ -16,7 +16,6 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   padding: 0;
   margin: 0;
-  font: inherit;
   font-size: 100%;
   vertical-align: baseline;
   border: 0;
@@ -31,6 +30,13 @@ body {
 }
 ol, ul {
   list-style: none;
+}
+
+/* Enable bullets for unordered lists in print */
+#main-content ul {
+  list-style: disc;
+  list-style-position: inside;
+  padding-left: 20px;
 }
 blockquote, q {
   quotes: none;
@@ -51,9 +57,22 @@ body {
   color: #000;
 }
 
+/* Use screen fonts for headers */
+header,
+header h1,
+header h2,
+#main-content h1,
+#main-content h2,
+#main-content h3,
+#main-content h4,
+#main-content h5,
+#main-content h6 {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
 a {
   font-weight: bold;
-  color: #d5000d;
+  color: #0066cc;
 }
 
 header {
@@ -62,15 +81,16 @@ header {
 }
 
 header h1 {
-  font-size: 48px;
-  font-weight: bold;
+  font-size: 60px;
+  font-weight: normal;
   line-height: 1.2;
   color: #303030;
   letter-spacing: -1px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif !important;
 }
 
 header h2 {
-  font-size: 24px;
+  font-size: 32px;
   font-weight: normal;
   line-height: 1.3;
   color: #aaa;
@@ -140,6 +160,7 @@ h1 {
 
 h2 {
   margin-bottom: 8px;
+  margin-top: 16px;
   font-size: 22px;
   font-weight: bold;
   color: #303030;
@@ -149,7 +170,7 @@ h3 {
   margin-bottom: 8px;
   font-size: 18px;
   font-weight: bold;
-  color: #d5000d;
+  color: #004080;
 }
 
 h4 {
@@ -170,7 +191,6 @@ h6 {
 
 p {
   margin-bottom: 20px;
-  font-weight: 300;
 }
 
 a {
@@ -189,7 +209,7 @@ blockquote {
 }
 
 ul li {
-  padding-left: 20px;
+  padding-left: 5px;
   list-style-position: inside;
   list-style: disc;
 }
@@ -229,3 +249,317 @@ footer a {
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
+
+/* PRINT SPECIFIC STYLES */
+
+/* Layout adjustments for print */
+#content-wrapper .inner {
+  display: block;
+}
+
+#sidebar {
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#main-content {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Contact section - compact header format */
+.contact {
+  margin-bottom: 10px;
+  padding: 15px 0;
+  border-bottom: 1px solid #ddd;
+  page-break-inside: avoid;
+}
+
+.contact h1 {
+  display: none;
+}
+
+.contact h2 {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  color: #000;
+  margin: 0 10px 0 0;
+  padding: 0;
+  white-space: nowrap;
+}
+
+.contact h2::after {
+  content: ":";
+  margin-right: 5px;
+}
+
+.contact p {
+  display: inline-block;
+  font-size: 12px;
+  margin: 0 35px 8px 0;
+  font-weight: normal;
+  line-height: 1.6;
+  white-space: nowrap;
+}
+
+.contact a {
+  color: #0066cc;
+  font-weight: 500;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+/* LinkedIn container adjustments */
+.linkedin-container {
+  display: inline-block;
+  margin: 0 35px 8px 0 !important;
+}
+
+.linkedin-profile-link {
+  display: inline-block !important;
+  font-size: 11px !important;
+  margin: 0 !important;
+}
+
+/* Hide LinkedIn badge image and content in print */
+.linkedin-container img,
+.linkedin-container svg,
+.linkedin-container div,
+.profile-badge__header,
+.profile-badge,
+.profile-badge__header--light {
+  display: none !important;
+}
+
+/* Hide all linkedin-container children except the first link */
+.linkedin-container > *:not(a) {
+  display: none !important;
+}
+
+/* Show print-only elements in print */
+.print-only {
+  display: inline-block !important;
+}
+
+/* Set font-weight to normal for summary--objective */
+#summary--objective {
+  font-weight: normal;
+}
+
+#skills {
+  font-weight: normal;
+}
+
+#education {
+  font-weight: normal;
+}
+
+#professional-experience {
+  font-weight: normal;
+}
+
+/* Option 1: Hide LinkedIn section entirely
+.contact h2:nth-of-type(3),
+.linkedin-container {
+  display: none;
+}
+*/
+
+/* Option 2: Show name instead of URL */
+.linkedin-profile-link {
+  color: #0066cc !important;
+}
+.contact h2:nth-of-type(3) {
+  display: inline-block;
+}
+
+/* Page break rules for sections */
+#main-content h1,
+#main-content h2,
+#main-content h3 {
+  page-break-after: avoid;
+  page-break-inside: avoid;
+}
+
+/* Force page break before job sections (h2) except first one */
+#main-content h2:not(:first-of-type):not(:nth-of-type(4)) {
+  page-break-before: always;
+}
+
+/* Ensure job sections (h2) have proper spacing
+#main-content h2 {
+}
+*/
+
+#main-content p,
+#main-content li {
+  page-break-inside: avoid;
+}
+
+#main-content ul,
+#main-content ol {
+  page-break-inside: avoid;
+}
+
+/* Section-based page breaks */
+#main-content > div {
+  page-break-inside: avoid;
+}
+
+/* Projects and Certifications sections */
+#sidebar:nth-of-type(2) {
+  page-break-before: always;
+}
+
+/* Image handling - hide images, show alt text */
+img {
+  display: none;
+}
+
+/* Show alt text for images */
+img::after {
+  display: block;
+  content: attr(alt);
+  font-size: 11px;
+  font-style: italic;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+/* Certification links - show as text */
+.certifications-section a {
+  display: block;
+  font-size: 11px;
+  color: #000;
+  text-decoration: none;
+  margin-bottom: 5px;
+}
+
+.certifications-section a::before {
+  content: "• ";
+}
+
+/* Hide salesiq and other non-essential elements */
+#salesiq,
+footer,
+#zsiqscript,
+script[src*="salesiq"],
+script[src*="zohopublic"],
+.zoho,
+.salesiq,
+[class*="zoho"],
+[class*="salesiq"],
+[class*="chat"],
+[class*="widget"],
+.zsiq-float-tooltip,
+[id*="zsiq"] {
+  display: none !important;
+}
+
+/* Header adjustments for print */
+header {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #ccc;
+}
+
+header h1 {
+  font-family: "Montserrat Light", Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 64px !important;
+  font-weight: normal !important;
+  line-height: 1.1;
+  letter-spacing: 0;
+}
+
+header h2 {
+  font-size: 24px !important;
+  font-weight: normal !important;
+}
+
+/* Use the same title font treatment for the LinkedIn text reference */
+.linkedin-profile-link {
+  font-family: "Montserrat Light", Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  letter-spacing: 0 !important;
+}
+
+/* Tighten Skills formatting for print */
+.skills,
+#skills,
+.skills-section,
+section.skills {
+  margin-bottom: 10px !important;
+}
+
+.skills p,
+#skills p,
+.skills-section p,
+section.skills p {
+  margin: 0 0 4px 0 !important;
+  line-height: 1.25 !important;
+}
+
+.skills ul,
+#skills ul,
+.skills-section ul,
+section.skills ul {
+  margin: 0 0 6px 0 !important;
+}
+
+.skills li,
+#skills li,
+.skills-section li,
+section.skills li {
+  margin: 0 0 2px 0 !important;
+  padding-left: 10px !important;
+  line-height: 1.25 !important;
+}
+
+/* Keep each job together where the browser can; allow natural breaks only if a job is too tall */
+.job,
+.job-entry,
+.experience-item,
+.work-experience-item,
+.resume-job,
+.employment-item,
+section.job,
+article.job {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  margin-bottom: 12px;
+}
+
+.job h3,
+.job-entry h3,
+.experience-item h3,
+.work-experience-item h3,
+.resume-job h3,
+.employment-item h3 {
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+/* Fallback for unwrapped resume markup: keep job headings attached to following content */
+#main-content h3,
+#main-content h4 {
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+/* Keep bullet groups together better within each job */
+#main-content h3 + p,
+#main-content h3 + ul,
+#main-content h4 + p,
+#main-content h4 + ul {
+  break-before: avoid;
+  page-break-before: avoid;
+}
+
+/* Keep print output clean: do not expose raw URLs after links */
+a[href]::after {
+  content: none !important;
+}
+
