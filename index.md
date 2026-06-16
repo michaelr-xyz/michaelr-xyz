@@ -64,35 +64,20 @@ As a Sr. Systems Engineer & Solutions Architect at Responza, I was responsible f
 # Skills
 
 - **Networking:** Skilled in designing and managing network infrastructures, including advanced networking technologies such as routing protocols, switching, and network security practices. Proficient in implementing and optimizing cloud and virtual networks to ensure efficient traffic management and secure connectivity. Capable of quickly troubleshooting, identifying issues, and resolving them, with a focus on high availability solutions.
-
 - **Server & Workstation Virtualization:** Proficient in technologies including VMware, Hyper-V, and Xen, for efficient server and workstation management.
-
 - **Cloud Infrastructure Management:** Experienced with Amazon Web Services, Microsoft Azure, and Google Cloud Platform, including cloud-based networking and storage solutions.
-
 - **High Availability & Clustering:** Skilled in ensuring high availability through clustering solutions, redundant devices, and power systems.
-
 - **Business Continuity & Disaster Recovery:** Highly skilled in backup technologies and disaster recovery planning, developing strategies to ensure uninterrupted business operations and minimal disruption during recovery.
-
 - **Storage Solutions:** Experienced in managing and optimizing Storage Area Networks (SAN) and Network Attached Storage (NAS). Configuring storage systems for high availability, performance, and scalability. Designing storage architectures that integrate with network infrastructure and manage protocols such as iSCSI and Fibre Channel.
-
 - **Operating System Administration:** Proficient in administering Microsoft Windows Server, Linux, Unix, and macOS environments.
-
 - **Productivity Suite Management:** Skilled in provisioning, migrating, and administering Microsoft 365 and Google Workspace.
-
 - **Email Management:** Experienced in provisioning, migrating, and administering email systems, including Microsoft Exchange Server and Microsoft 365, with a focus on email security and performance.
-
 - **Database Management:** Proficient in deploying and administering database systems, including Microsoft SQL Server (MSSQL) and MySQL. Capable of designing database schemas, performing backups, and ensuring data integrity and security.
-
 - **Compliance Auditing:** Knowledgeable in HIPAA and PCI compliance requirements. Experienced in building and maintaining compliance in new and existing environments while meeting business requirements. Skilled in working with compliance vendors and auditors, and maintaining up-to-date documentation and changelogs.
-
 - **Web Server Administration:** Proficient in deploying, configuring, and managing web servers, including IIS and Apache, across Windows and Linux environments. Experienced in web technologies such as DNS, domain registration, SSL certificate management, load balancing, and Web Application Firewalls (WAF). Adept at automating tasks and streamlining technologies for improved performance.
-
 - **Online Marketing:** Skilled in utilizing web analytics tools, implementing SEO strategies, and managing online advertising campaigns. Experienced in integrating marketing tools to streamline and enhance online presence and effectiveness.
-
 - **Problem Resolution & Support:** Expertise in diagnosing and resolving complex technical issues, providing exceptional value to customers by quickly identifying root causes and implementing solutions. Proficient in documenting and maintaining changelogs of applied resolutions, and communicating technical information effectively to both technical and non-technical audiences.
-
 - **Technical Documentation & Communication:** Proficient in creating clear and comprehensive technical documentation that supports problem resolution, project management, and system maintenance. Experienced in preparing project documentation, facilitating user acceptance testing (UAT), and ensuring effective communication of technical information.
-
 - **Customer Service:** Dedicated to delivering high-quality support with a focus on understanding and addressing client needs. Effective in resolving complex issues promptly, managing customer interactions professionally, and enhancing the customer experience through solution-based methodologies and clear, empathetic communication.
 
 * * *
