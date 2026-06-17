@@ -304,6 +304,12 @@ ul {
   padding-left: 20px;
 }
 
+/* Remove bullet icons from nested lists while keeping indentation */
+ul ul {
+  list-style: none;
+  padding-left: 20px;
+}
+
 ol {
   list-style-position: inside;
   list-style: decimal;
