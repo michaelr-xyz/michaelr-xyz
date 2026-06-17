@@ -35,11 +35,14 @@
 }
 
 .tech {
+  display: inline-block;
   white-space: nowrap;
+  margin-right: 0.35em;
 }
 
 .tech:not(:last-child)::after {
-  content: " · ";
+  content: "·";
+  margin-left: 0.35em;
 }
 
 /*
