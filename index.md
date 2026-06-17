@@ -10,22 +10,22 @@ Experienced Systems Engineer with over a decade of expertise in designing, imple
 # Professional Experience
 
 ## General IT Infrastructure Systems Administrator
-### OSC TECHNICAL SOLUTIONS
+### OSC Technical Solutions
 #### May 2025 - Present
 
-As the primary Subject Matter Expert for WS_FTP, KiteWorks, and Box.com environments, I architect and maintain secure file transfer solutions that facilitate critical data exchanges between internal systems and external partners. My role focuses on ensuring compliance, reliability, and efficiency across the organization's file transfer infrastructure while supporting a centralized software distribution platform that delivers 675+ applications to end users.
+As the primary Subject Matter Expert for KiteWorks, WS_FTP, and Box.com, I design, administer, and modernize secure enterprise file transfer platforms supporting mission-critical data exchanges between internal systems and external partners. I ensure the reliability, security, and compliance of the organization's managed file transfer infrastructure while supporting a centralized software distribution environment serving more than 675 enterprise applications. I work closely with infrastructure, cybersecurity, and application teams to improve operational efficiency, reduce risk, and drive the organization's transition to modern secure collaboration platforms.
 
 **Core Responsibilities & Technical Leadership:**
 
-- **File Transfer Infrastructure Management:** Administer and optimize WS_FTP Pro servers (Windows/Linux), including user account provisioning, SSL certificate management, and firewall rule configuration to enable secure SFTP/FTPS transfers
-- **KiteWorks Migration Project:** Partner with security teams to transition from legacy WS_FTP systems to KiteWorks' enterprise-grade secure file sharing platform, including workflow redesign and user training
-- **Box.com Administration:** Manage enterprise Box environment including folder permissions, SSO integration, and data retention policies
-- **Software Distribution Support:** Assist in packaging and deploying applications via System Center Configuration Manager (SCCM), ensuring compatibility and compliance
-- **Incident Resolution:** Troubleshoot complex file transfer failures by analyzing protocol-level issues (FTP/SFTP/HTTP/S), network configurations, and security policies
-- **Process Improvement:** Develop automation scripts (PowerShell/Python) to streamline account provisioning and file transfer monitoring
+- **Enterprise File Transfer:** Architect, administer, and optimize WS_FTP Pro environments across Windows and Linux platforms, including secure user provisioning, SSL certificate lifecycle management, firewall integration, and SFTP/FTPS services.
+- **Platform Modernization:** Partner with cybersecurity and infrastructure teams to migrate legacy managed file transfer workflows to KiteWorks, redesigning secure data exchange processes and supporting enterprise adoption.
+- **Enterprise Content Management:** Administer the organization's Box.com environment, managing folder permissions, Single Sign-On (SSO) integration, user access, and data retention policies to ensure secure collaboration.
+- **Software Distribution:** Support the enterprise software distribution platform by packaging and deploying applications through Microsoft System Center Configuration Manager (SCCM), ensuring compatibility, compliance, and reliable delivery.
+- **Incident Response & Troubleshooting:** Diagnose and resolve complex file transfer, authentication, protocol, and network issues by analyzing FTP, SFTP, HTTP/S, firewall, and security configurations to maintain service availability.
+- **Automation & Process Improvement:** Develop PowerShell and Python automation to streamline account provisioning, monitoring, and operational workflows, improving efficiency while reducing manual effort and configuration inconsistencies.
 
 ## Systems Engineer
-### TIGUNIA
+### Tigunia
 #### May 2023 - April 2024
 
 At Tigunia, I managed a diverse range of IT infrastructures, from on-site servers to cloud environments, ensuring security, performance, and reliability across multiple clients and locations. My role involved configuring systems, optimizing network designs, mentoring junior staff, and providing comprehensive support for various technologies.
@@ -44,7 +44,7 @@ At Tigunia, I managed a diverse range of IT infrastructures, from on-site server
 - **Client Support:** Provided ongoing support and troubleshooting for a wide range of IT issues, ensuring high levels of client satisfaction and system uptime.
 
 ## Sr. Systems Engineer & Solutions Architect
-### RESPONZA
+### Responza
 #### July 2012 - August 2022
 
 As a Sr. Systems Engineer & Solutions Architect at Responza, I was responsible for managing the IT infrastructure of over 50 clients. My role involved leading a technical team, designing and implementing secure network solutions, and overseeing complex projects to ensure seamless operations and client satisfaction.
@@ -87,8 +87,8 @@ As a Sr. Systems Engineer & Solutions Architect at Responza, I was responsible f
 
 # Education
 
-## IT Network Administrator Pathway
-### YAKIMA VALLEY COLLEGE
+## Network Administrator, AAS
+### Yakima Valley College
 #### 2025 - Present
 
 **Pursuing comprehensive training in IT network administration, focusing on:**
@@ -103,6 +103,6 @@ As a Sr. Systems Engineer & Solutions Architect at Responza, I was responsible f
 - CS&IT Club (Computer Science and Information Technology)
 - Wellness Club
 
-**Reference:** <a href="https://truf.us/YVC-Michael?utm_source=michaelr-xyz&utm_medium=website&utm_id=michael" target="_blank" rel="noopener noreferrer">Michael Ryan YVC Student Story</a>
+**Reference:** <a href="https://truf.us/YVC-Michael?utm_source=website&utm_medium=michaelr-xyz&utm_id=YVC-Michael" target="_blank" rel="noopener noreferrer">Michael Ryan YVC Student Story</a>
 
 * * *
