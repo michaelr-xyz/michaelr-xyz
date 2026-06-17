@@ -34,6 +34,15 @@
     text-indent: 3px;
 }
 
+.tech {
+  white-space: nowrap;
+}
+
+.tech:not(:last-child)::after {
+  content: " · ";
+  white-space: normal;
+}
+
 /*
 ul {
     list-style-position: inside;
