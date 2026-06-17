@@ -40,7 +40,6 @@
 
 .tech:not(:last-child)::after {
   content: " · ";
-  white-space: normal;
 }
 
 /*
