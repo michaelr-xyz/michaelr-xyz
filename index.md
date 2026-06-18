@@ -80,7 +80,7 @@ At Responza, I served as a Sr. Systems Engineer & Solutions Architect supporting
 ### Yakima Valley College
 #### Expected 2027
 
-Pursuing formal education in network administration to formalize, strengthen, and expand hands-on experience in infrastructure, systems engineering, security, and technical support. Program coursework builds from IT fundamentals and business communication into operating systems, server administration, PowerShell scripting, Cisco networking, database systems, network security, and user-focused problem resolution, while supporting preparation for industry-recognized Cisco, CompTIA, and Microsoft certifications.
+Advancing my education in network administration to strengthen and expand hands-on experience in infrastructure, systems engineering, security, and technical support. Program coursework builds from IT fundamentals and business communication into operating systems, server administration, PowerShell scripting, Cisco networking, database systems, network security, and user-focused problem resolution, while supporting preparation for industry-recognized Cisco, CompTIA, and Microsoft certifications.
 
 - **Program Focus:**
   - **IT Foundations & Business Communication:** Information technology fundamentals, written business communication, career management, professional etiquette, and communication with peers, clients, and management
