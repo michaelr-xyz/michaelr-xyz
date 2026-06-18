@@ -352,7 +352,11 @@ footer a {
 }
 
 /* Set font-weight to normal for summary--objective */
-#summary--objective {
+#summary {
+  font-weight: normal;
+}
+
+#professional-experience {
   font-weight: normal;
 }
 
@@ -360,11 +364,7 @@ footer a {
   font-weight: normal;
 }
 
-#education--professional-development {
-  font-weight: normal;
-}
-
-#professional-experience {
+#education--development {
   font-weight: normal;
 }
 
