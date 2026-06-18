@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Summary / Objective
-Experienced Systems Engineer with over a decade of expertise in designing, implementing, and securing server, networking, and data-center technologies. Proven ability to optimize infrastructures for high availability, robust security, and peak performance. Adept at managing complex IT environments, leading technical projects, and delivering exceptional solutions.
+# Summary
+Systems Engineer with experience designing, modernizing, securing, and supporting enterprise server, network, cloud, and data-center environments. Skilled in infrastructure architecture, platform operations, systems administration, automation, and technical escalation. Known for translating complex requirements into reliable, maintainable, and secure solutions that improve operations and support long-term business goals.
 
 * * *
 
@@ -74,7 +74,7 @@ At Responza, I served as a Sr. Systems Engineer & Solutions Architect supporting
 
 * * *
 
-# Education & Professional Development
+# Education & Development
 
 ## Network Administrator, AAS
 ### Yakima Valley College
