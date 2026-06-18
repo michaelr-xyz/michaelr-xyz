@@ -54,7 +54,6 @@ At Responza, I served as a Sr. Systems Engineer & Solutions Architect supporting
 * * *
 
 # Technical Capabilities & Skills
-
 - **Infrastructure Architecture & Modernization:** Design, modernize, optimize, and support enterprise infrastructure across on-premises, private cloud, public cloud, and hybrid environments while improving resiliency, scalability, security, operational efficiency, and long-term business value.
   - <span class="tech">Windows Server</span><span class="tech">Linux</span><span class="tech">Apple macOS</span><span class="tech">VMware vSphere</span><span class="tech">VMware vSAN</span><span class="tech">Hyper-V</span><span class="tech">Xen</span><span class="tech">Microsoft Azure</span><span class="tech">Amazon Web Services (AWS)</span><span class="tech">Google Cloud Platform (GCP)</span><span class="tech">Hybrid Cloud</span><span class="tech">High Availability (HA)</span><span class="tech">Failover Clustering</span><span class="tech">Live Migration</span><span class="tech">Capacity Planning</span><span class="tech">Solution Architecture</span>
 
@@ -74,6 +73,8 @@ At Responza, I served as a Sr. Systems Engineer & Solutions Architect supporting
   - <span class="tech">Technical Consulting</span><span class="tech">Solution Architecture</span><span class="tech">Infrastructure Assessments</span><span class="tech">Infrastructure Sizing</span><span class="tech">Requirements Gathering</span><span class="tech">Discovery Workshops</span><span class="tech">Technology Roadmaps</span><span class="tech">Technology Modernization</span><span class="tech">Infrastructure Optimization</span><span class="tech">Platform Migrations</span><span class="tech">Project Scoping</span><span class="tech">Vendor Management</span><span class="tech">Change Management</span><span class="tech">Executive Communication</span><span class="tech">Technical Documentation</span><span class="tech">Architecture Diagrams</span><span class="tech">Microsoft Visio</span><span class="tech">User Acceptance Testing (UAT)</span><span class="tech">HIPAA</span><span class="tech">PCI DSS</span>
 
 * * *
+
+# Education & Professional Development
 
 ## Network Administrator, AAS
 ### Yakima Valley College
