@@ -5,10 +5,12 @@ show_downloads: false
 google_analytics: G-SJHZ177HBE
 google_tag_manager: GTM-PRQJGKRG
 author: Michael Ryan
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+remote_theme: pages-themes/architect@v0.2.0
 
 plugins:
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Site information
 url:  https://michaelr.xyz
